@@ -2,10 +2,11 @@
 
 ### 🚀 Sobre Mim
 
-Sou um **Engenheiro de Software Full Stack** com 14 anos de experiência no desenvolvimento de soluções robustas e inovadoras. Há 11 anos, fundei a **NextSistem**, uma empresa dedicada a fornecer soluções eficientes e modernas para empresas e clientes, sempre com o compromisso de inovação e qualidade.
+Sou um **Engenheiro de Software Full Stack** com 19 anos de experiência no desenvolvimento de soluções robustas e inovadoras. Há 11 anos, fundei a **NextSistem**, uma empresa dedicada a fornecer soluções eficientes e modernas para empresas e clientes, sempre com o compromisso de inovação e qualidade.
 
 ### 🛠️ Tecnologias e Ferramentas
-
+![Delphi](https://img.shields.io/badge/Delphi-EA1B24?style=for-the-badge&logo=delphi&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 - **Linguagens de Programação:** Delphi, C#, JavaScript, TypeScript, Dart, Go
 - **Frameworks e Bibliotecas:** .NET Core, Angular, Flutter
 - **Banco de Dados:** SQL Server, MySQL, MariaDB, PostgreSQL
