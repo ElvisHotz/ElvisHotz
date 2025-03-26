@@ -58,7 +58,7 @@ O projeto **Delivery Fácil** é uma plataforma completa de gestão de pedidos e
 
 #### Desafios vencidos:
 - Criar uma arquitetura escalável para múltiplos estabelecimentos em tempo real.
-- Integração com sistemas ERP (NextSistem) e o sistema gastronômico NextGourmet.
+- Integração com sistemas ERP (NextSistem) e o sistema NextGourmet.
 - Implantação de mensageria assíncrona e cache distribuído.
 - Implantação em VPS Linux com balanceamento e automação de deploy.
 
