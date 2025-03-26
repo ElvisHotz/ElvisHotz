@@ -3,10 +3,28 @@
 ### 🚀 Sobre Mim
 
 Sou um **Engenheiro de Software Full Stack** com 19 anos de experiência no desenvolvimento de soluções robustas e inovadoras. Há 11 anos, fundei a **NextSistem**, uma empresa dedicada a fornecer soluções eficientes e modernas para empresas e clientes, sempre com o compromisso de inovação e qualidade.
+### 🧰 Stack Principal
 
-### 🛠️ Tecnologias e Ferramentas
+#### Linguagens e Frameworks
 ![Delphi](https://img.shields.io/badge/Delphi-EA1B24?style=for-the-badge&logo=delphi&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+#### Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### DevOps e Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### 🛠️ Tecnologias e Ferramentas
 - **Linguagens de Programação:** Delphi, C#, JavaScript, TypeScript, Dart, Go
 - **Frameworks e Bibliotecas:** .NET Core, Angular, Flutter
 - **Banco de Dados:** SQL Server, MySQL, MariaDB, PostgreSQL
