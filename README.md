@@ -6,7 +6,7 @@ Sou um **Engenheiro de Software Full Stack** com 14 anos de experiência no dese
 
 ### 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens de Programação:** Delphi, C#, JavaScript, TypeScript, Dart
+- **Linguagens de Programação:** Delphi, C#, JavaScript, TypeScript, Dart, Go
 - **Frameworks e Bibliotecas:** .NET Core, Angular, Flutter
 - **Banco de Dados:** SQL Server, MySQL, MariaDB, PostgreSQL
 - **Outras Ferramentas:** Git, Docker, Azure DevOps
@@ -25,8 +25,10 @@ A stack utilizada neste projeto inclui:
 
 - **Backend:** .NET Core para APIs robustas e seguras.
 - **Frontend:** Angular para uma interface responsiva e dinâmica.
-- **Mobile:** Flutter para aplicativos móveis multiplataforma.
-- **Banco de Dados:** SQL Server para armazenamento confiável e performático.
+- **Mensageria** RabbitMQ
+- **Controle de Cache** Redis
+- **Banco de Dados:** MariaDB para armazenamento confiável e performático.
+- **Integração Whatsapp** Whatsapp.js
 
 Para saber mais sobre o Delivery Fácil, visite: [deliveryfacil.net.br](https://deliveryfacil.net.br/)
 
