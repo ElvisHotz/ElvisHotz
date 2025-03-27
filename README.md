@@ -2,7 +2,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou um **Engenheiro de Software Full Stack** com **19 anos de experiência** no desenvolvimento de soluções robustas, escaláveis e sob medida para o mercado corporativo. 
+Sou um **Engenheiro de Software Full Stack** com **15 anos de experiência** no desenvolvimento de soluções robustas, escaláveis e sob medida para o mercado corporativo. 
 
 Fundador da **NextSistem**, empresa com 11 anos de história, atuo no desenvolvimento de sistemas ERP, plataformas web e aplicativos mobile. Minha missão é entregar soluções práticas, modernas e sustentáveis para empresas que valorizam performance e inovação.
 
