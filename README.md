@@ -84,7 +84,7 @@ Além do Delivery Fácil, desenvolvi dezenas de módulos ERP, sistemas web e app
 ### 📫 Contato
 
 - **Email:** elvishotz@outlook.com
-- **LinkedIn:** [linkedin.com/in/elvis]([https://www.linkedin.com/in/elvis](https://www.linkedin.com/in/elvis-hotz-a19b0bb0))
+- **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/elvis-hotz-a19b0bb0)
 - **WhatsApp:** [Contato via WhatsApp](https://api.whatsapp.com/send?phone=5544998061555)
 
 ---
