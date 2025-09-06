@@ -70,8 +70,8 @@ O projeto **Delivery Fácil** é uma plataforma completa de gestão de pedidos e
 - **Infraestrutura:** VPS Linux + Docker + NGINX + Deploy automatizado
 - **Integrações:** WhatsApp via Whatsapp.js
 
-🔗 [deliveryfacil.net.br](https://deliveryfacil.net.br/)
-🔗 [boa-pizza-v1.deliveryfacil.net.br](https://boa-pizza-v1.deliveryfacil.net.br/)
+- 🔗 [deliveryfacil.net.br](https://deliveryfacil.net.br/)
+- 🔗 [boa-pizza-v1.deliveryfacil.net.br](https://boa-pizza-v1.deliveryfacil.net.br/)
 
 ---
 
@@ -84,7 +84,7 @@ Além do Delivery Fácil, desenvolvi dezenas de módulos ERP, sistemas web e app
 ### 📫 Contato
 
 - **Email:** elvishotz@outlook.com
-- **LinkedIn:** [linkedin.com/in/elvis](https://www.linkedin.com/in/elvis)
+- **LinkedIn:** [linkedin.com/in/elvis]([https://www.linkedin.com/in/elvis](https://www.linkedin.com/in/elvis-hotz-a19b0bb0))
 - **WhatsApp:** [Contato via WhatsApp](https://api.whatsapp.com/send?phone=5544998061555)
 
 ---
