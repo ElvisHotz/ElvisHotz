@@ -4,7 +4,7 @@
 
 Sou um **Engenheiro de Software Full Stack** com **15 anos de experiência** no desenvolvimento de soluções robustas, escaláveis e sob medida para o mercado corporativo. 
 
-Fundador da **NextSistem**, empresa com 11 anos de história, atuo no desenvolvimento de sistemas ERP, plataformas web e aplicativos mobile. Minha missão é entregar soluções práticas, modernas e sustentáveis para empresas que valorizam performance e inovação.
+Atuo no desenvolvimento de sistemas ERP, plataformas web e aplicativos mobile. Minha missão é entregar soluções práticas, modernas e sustentáveis para empresas que valorizam performance e inovação.
 
 ---
 
@@ -71,6 +71,7 @@ O projeto **Delivery Fácil** é uma plataforma completa de gestão de pedidos e
 - **Integrações:** WhatsApp via Whatsapp.js
 
 🔗 [deliveryfacil.net.br](https://deliveryfacil.net.br/)
+🔗 [boa-pizza-v1.deliveryfacil.net.br](https://boa-pizza-v1.deliveryfacil.net.br/)
 
 ---
 
@@ -78,13 +79,10 @@ O projeto **Delivery Fácil** é uma plataforma completa de gestão de pedidos e
 
 Além do Delivery Fácil, desenvolvi dezenas de módulos ERP, sistemas web e apps mobile voltados para automação comercial, gestão empresarial, controle financeiro, emissão de notas fiscais e muito mais — tudo com foco no mercado real.
 
-🔗 [nextsistem.com.br](https://nextsistem.com.br/)
-
 ---
 
 ### 📫 Contato
 
-- **Site:** [nextsistem.com.br](https://nextsistem.com.br/)
 - **Email:** elvishotz@outlook.com
 - **LinkedIn:** [linkedin.com/in/elvis](https://www.linkedin.com/in/elvis)
 - **WhatsApp:** [Contato via WhatsApp](https://api.whatsapp.com/send?phone=5544998061555)
